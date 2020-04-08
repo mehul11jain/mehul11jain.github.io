@@ -328,7 +328,7 @@ $(function(){
       var text = $('#home .typer-title'),
           textOne = "I'm a CSE Master's student at IIT Bombay",
           textTwo = "Currently in First year",
-          textThree = "Have interest in ML,Web development";
+          textThree = "Have interest in Compilers,Static analysis,Web development";
 
           if (!!$.prototype.typer) {
             text.typer([textOne,textTwo,textThree]);
